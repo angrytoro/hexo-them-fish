@@ -11,7 +11,7 @@ menu:
 subnav:
   github: "https://github.com/angrytoro"
   #weibo: "#"
-  #rss: "#"
+  rss: "atom.xml"
   #zhihu: "#"
   #douban: "#"
   #mail: "#"
@@ -20,15 +20,13 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-#rss: /atom.xml
-
 # Content
 excerpt_link: more
 fancybox: true
 mathjax: true
 
 # Miscellaneous
-google_analytics: ''
+google_analytics: 'UA-60687326-1'
 favicon: /favicon.png
 
 #你的头像url
