@@ -27,7 +27,7 @@ mathjax: true
 
 # Miscellaneous
 google_analytics: 'UA-60687326-1'
-favicon: /favicon.png
+favicon: /img/favicon.ico
 
 #你的头像url
 avatar: "/img/avatar.jpg"
